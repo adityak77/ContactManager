@@ -1,3 +1,5 @@
+The link to the website hosted on GitHub is https://adityak77.github.io/ContactManager/#/ .
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
